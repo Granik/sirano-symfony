@@ -46,7 +46,7 @@
     "select2": "^4.0.12",
     "slick-carousel": "^1.8.1",
     "suggestions-jquery": "^19.10.0",
-    "tinymce": "^5.1.1",
+    "tinymce": "^5.7.1",
     "tinymce-i18n": "^19.9.17",
     "trumbowyg": "^2.20.0"
   }
